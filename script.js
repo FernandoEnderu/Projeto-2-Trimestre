@@ -6,17 +6,47 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "O daniel não cursou o ensino médio, porque é buxa?",
+        enunciado: "1. O Kaíque é Guerreiro?",
         alternativas: [
-            "verdade",
-            "óbvio"
+            "Depende do que você considera Guerreiro",
+            "Não, não"
         ]
     },
     {
-        enunciado: "a pergunta acima era verídica",
+        enunciado: "2. Você respondeu \"Depende\" na questão anterior",
         alternativas: [
-            "Sim, sim",
-            "kkkk"
+            "Sim",
+            "Não"
+        ]
+    },
+    {
+        enunciado: "?. Essa é a questão No.4",
+        alternativas: [
+            "Sim",
+            "Não"
+        ]
+    },
+    {
+        enunciado: "4. Fungos são legais",
+        alternativas: [
+            "Sim",
+            "Óbvio"
+        ]
+    },
+    {
+        enunciado: "Você gostou do quiz? (Pakistan International Airlines)",
+        alternativas: [
+            "Sim",
+            "Sim"
         ]
     }
 ]; 
+
+var atual = 0;
+var perguntaAtual;
+
+function mostraPergunta(){
+    caixaPerguntas.textContent = perguntas[atual].enunciado;
+}
+
+mostraPergunta();

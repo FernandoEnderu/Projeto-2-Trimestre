@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Isso é assustador!",
-                afirmacao: "afirmação"
+                afirmacao: "O mundo se tornou assustador. "
             },
             {
                 texto: "Isso é maravilhoso!",
-                afirmacao: "afirmação"
+                afirmacao: "O mundo evoluiu tecnologicamente. "
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "afirmação"
+                afirmacao: "Através de I.A, até mesmo trabalhos de escola começaram a ser desenvolvidos. "
             },
             {
                 texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "afirmação"
+                afirmacao: "Mesmo com a I.A, as pesquisas eram em maioria, feitas com outras ferramentas. "
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "afirmação"
+                afirmacao: "A decisão perante ao debate feito após o trabalho, foi explicar como a I.A foi utilizada para fazer um trabalho consistente e bem feito."
             },
             {
                 texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "afirmação"
+                afirmacao: "A decisão perante ao debate feito após o trabalho, foi explicar como o conhecimento adquirido através de outras pessoas é mais valioso do que de I.As"
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "afirmação"
+                afirmacao: "Após isso, foi criada uma imagem de computador representando a I.A. Isso foi feito através do paint, um programa que incentiva a criatividade e não possui funções automáticas."
             },
             {
                 texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "afirmação"
+                afirmacao: "Após isso, foi criada uma imagem de computador representando a I.A. Isso foi feito por uma I.A geradora de imagens, mostrando a evolução dessa tecnologia e seu uso prático."
             }
         ]
     },
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "afirmação"
+                afirmacao: "Para o trabalho de biologia, comandos foram usados para o chat, para que contribuísse com o trabalho."
             },
             {
                 texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "afirmação"
+                afirmacao: "Para o trabalho de biologia, foi revisado o texto escrito pelo chat, pois ele é uma máquina e pode errar, mesmo com seus avanços tecnológicos."
             }
         ]
     },
